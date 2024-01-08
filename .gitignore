@@ -1,6 +1,5 @@
 __pycache__
 *.ipynb
-*.png
 *.pkl
 *.blend*
 *.usdz
