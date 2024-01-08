@@ -1,6 +1,6 @@
 # FamilyTree3D
 
-<img src="docs/demo.gif" width=700>
+<img src="docs/demo.gif" width=800>
 
 ## Usage
 
@@ -25,3 +25,8 @@ python read_csv.py -i data/${PATH}.csv \
 MODEL_PATH = WORKDIR / "data/**.pkl" # Rename here!!
 ```
 - Change `MODEL_PATH` for your own family model.
+
+
+## Documentation
+
+- [Qiita (Japanese)](https://qiita.com/astaka/items/c04a120db627e3d01074)
