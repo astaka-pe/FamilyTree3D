@@ -1,6 +1,6 @@
 # FamilyTree3D
 
-<img src="docs/sample.png" width=700>
+<img src="docs/demo.gif" width=700>
 
 ## Usage
 
