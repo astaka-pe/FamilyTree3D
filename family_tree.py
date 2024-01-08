@@ -2,7 +2,7 @@
 import numpy as np
 from collections import deque
 
-C_INTERVAL = 2.3
+C_INTERVAL = 1.7
 
 class FamilyTree:
     def __init__(self, center):
